@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Alex Roberts",
+        "course": "iOS"
+    },
+    {
+        "name": "Andrew Liao",
+        "course": "Web"
+    },
+    {
+        "name": "Linh Bouniol",
+        "course": "UX"
+    },
+    {
+        "name": "Carolyn Lea",
+        "course": "iOS"
+    },
+    {
+        "name": "Conner Alegre",
+        "course": "Web"
+    },
+    {
+        "name": "David Doswell",
+        "course": "iOS"
+    },
+    {
+        "name": "Iyin Raphael",
+        "course": "UX"
+    },
+    {
+        "name": "Jeremy Taylor",
+        "course": "iOS"
+    },
+    {
+        "name": "Jonathan Miles",
+        "course": "Web"
+    },
+    {
+        "name": "Lisa Sampson",
+        "course": "iOS"
+    },
+    {
+        "name": "Samantha Gatt",
+        "course": "UX"
+    },
+    {
+        "name": "Simon Elhoej Steinmejer",
+        "course": "Web"
+    },
+    {
+        "name": "Stefano Demicheli",
+        "course": "iOS"
+    },
+    {
+        "name": "Timothy Bryant",
+        "course": "Web"
+    },
+    {
+        "name": "Vuk Radosavljevic",
+        "course": "UX"
+    },
+    {
+        "name": "William Bundy",
+        "course": "iOS"
+    }
+]
